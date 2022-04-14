@@ -1,1 +1,1 @@
-# DeepLearning and Pytorch
+# DeepLearning and PyTorch
